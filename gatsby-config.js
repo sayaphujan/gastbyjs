@@ -6,8 +6,6 @@
 
 module.exports = {
   /* Your site config here */
-  // gatsby-browser.js
-require('./my-global-styles.css')
   plugins: [],
 }
 
